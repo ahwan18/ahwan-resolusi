@@ -1,0 +1,3 @@
+1. Mempelajari JavaScript Fundamental
+2. Mempelajari Java OOP
+3. Mempelajari Css, Html
