@@ -1,3 +1,5 @@
 1. Mempelajari JavaScript Fundamental
 2. Mempelajari Java OOP
 3. Mempelajari Css, Html
+4. Mempelajari NodeJs
+5. Lolos Beasiswa IDCamp 2024
