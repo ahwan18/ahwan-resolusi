@@ -5,5 +5,8 @@ Todo List
 - Belajar lebih dalam lagi
   * Fork
   * Git
+    ^ Installing
 - Istirahat
 - Refresing
+  ^ Playing Game
+- Makan
