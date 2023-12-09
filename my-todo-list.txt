@@ -5,5 +5,7 @@ Todo List
 - Belajar lebih dalam lagi
   * Fork
   * Git
-- Istirahat
+    ^ Branch
+    ^ Clone
 - Refresing
+  ^ Playing Game
