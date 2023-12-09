@@ -3,4 +3,6 @@ Todo List
 - Belajar Github
 - Mulai buat branch
 - Belajar lebih dalam lagi
+  * Fork
+  * Git
 - Istirahat
